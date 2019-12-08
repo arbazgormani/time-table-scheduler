@@ -1,0 +1,126 @@
+﻿Total Classes in a week,900,,,,,
+Teacher Count,100,,,,,
+Total Rooms,30,,,,,
+Groups Count,50,,,,,
+Allocations,,,,,,
+,C1,C2,C3,C4,C5,C6
+BatchCS16_A,T1,T2,T3,T4,T5,T6
+class duration,1,1,1.5,1,1,1
+BatchCS16_B,T1,T2,T3,T4,T5,T6
+class duration,1,1,1.5,1,1,1
+BatchCS16_C,T1,T2,T3,T4,T5,T6
+class duration,1,1,1.5,1,1,1
+BatchCS16_D,T7,T8,T9,T10,T11,T12
+class duration,1.5,1,1,1.5,1,1
+BatchCS16_E,T7,T8,T9,T10,T11,T12
+class duration,1.5,1,1,1.5,1,1
+BatchCS15_A,T7,T8,T9,T10,T11,T12
+class duration,1.5,1,1,1.5,1,1
+BatchCS15_B,T13,T14,T15,T16,T17,T18
+class duration,1,1.5,1,1.5,1,1
+BatchCS15_C,T13,T14,T15,T16,T17,T18
+class duration,1,1.5,1,1.5,1,1
+BatchCS15_D,T13,T14,T15,T16,T17,T18
+class duration,1,1.5,1,1.5,1,1
+BatchCS15_E,T19,T20,T21,T22,T23,T24
+class duration,1,1,1.5,1,1,1.5
+BatchCS15_F,T19,T20,T21,T22,T23,T24
+class duration,1,1,1.5,1,1,1.5
+BatchCS14_A,T19,T20,T21,T22,T23,T24
+class duration,1,1,1.5,1,1,1.5
+BatchCS14_B,T25,T26,T27,T28,T29,T30
+class duration,1.5,1.5,1,1,1,1
+BatchCS14_C,T25,T26,T27,T28,T29,T30
+class duration,1,1.5,1,1,1.5,1
+BatchCS14_D,T25,T26,T27,T28,T29,T30
+class duration,1,1.5,1,1,1.5,1
+BatchCS14_E,T31,T32,T33,T34,T35,T36
+class duration,1,1.5,1,1,1.5,1
+BatchCS13_A,T31,T32,T33,T34,T35,T36
+class duration,1,1,1,1.5,1,1
+BatchCS13_B,T31,T32,T33,T34,T35,T36
+class duration,1,1,1,1.5,1,1
+BatchCS13_C,T37,T38,T39,T40,T41,T42
+class duration,1,1,1,1.5,1,1
+BatchCS13_D,T37,T38,T39,T40,T41,T42
+class duration,1,1,1,1.5,1,1
+BatchCS13_E,T37,T38,T39,T40,T41,T42
+class duration,1,1,1,1.5,1,1
+BatchCS13_F,T43,T44,T45,T46,T47,T48
+class duration,1,1,1,1,1,1
+BatchCS12_A,T43,T44,T45,T46,T47,T48
+class duration,1,1,1,1,1,1
+BatchCS12_B,T43,T44,T45,T46,T47,T48
+class duration,1,1,1,1,1,1
+BatchCS12_C,T49,T50,T51,T52,T53,T54
+class duration,1.5,1,1,1.5,1,1
+BatchCS12_D,T49,T50,T51,T52,T53,T54
+class duration,1.5,1,1,1.5,1,1
+BatchCS12_E,T49,T50,T51,T52,T53,T54
+class duration,1.5,1,1,1.5,1,1
+BatchEE16_A,T55,T56,T57,T58,T59,T60
+class duration,1,1,1,1.5,1,1
+BatchEE16_B,T55,T56,T57,T58,T59,T60
+class duration,1.5,1,1,1.5,1,1
+BatchEE16_C,T55,T56,T57,T58,T59,T60
+class duration,1,1,1,1,1.5,1
+BatchEE16_D,T61,T62,T63,T64,T65,T66
+class duration,1,1,1,1.5,1,1
+BatchEE16_E,T61,T62,T63,T64,T65,T66
+class duration,1,1,1.5,1,1,1
+BatchEE15_A,T61,T62,T63,T64,T65,T66
+class duration,1.5,1,1.5,1,1,1
+BatchEE15_B,T67,T68,T69,T70,T71,T72
+class duration,1.5,1,1.5,1,1,1
+BatchEE15_B,T67,T68,T69,T70,T71,T72
+class duration,1.5,1,1.5,1,1,1
+BatchEE15_C,T67,T68,T69,T70,T71,T72
+class duration,1,1,1,1,1,1
+BatchEE15_D,T73,T74,T75,T76,T77,T78
+class duration,1,1,1,1,1,1
+BatchEE14_A,T73,T74,T75,T76,T77,T78
+class duration,1,1,1,1,1,1
+BatchEE14_B,T73,T74,T75,T76,T77,T78
+class duration,1,1,1,1,1,1
+BatchEE14_C,T100,T80,T81,T82,T83,T84
+class duration,1,1,1,1.5,1,1
+BatchEE14_D,T79,T80,T81,T82,T83,T84
+class duration,1,1,1,1.5,1,1
+BatchEE14_E,T79,T80,T81,T82,T83,T84
+class duration,1,1,1,1.5,1,1
+BatchEE13_A,T99,T86,T87,T88,T89,T90
+class duration,1,1,1,1,1,1
+BatchEE13_B,T85,T86,T87,T88,T89,T90
+class duration,1,1,1,1,1,1
+BatchEE13_C,T85,T86,T87,T88,T89,T90
+class duration,1,1,1,1,1,1
+BatchEE13_D,T91,T92,T93,T94,T95,T96
+class duration,1,1,1.5,1,1,1
+BatchEE12_A,T91,T92,T93,T94,T95,T96
+class duration,1,1,1.5,1,1,1
+BatchEE12_B,T91,T92,T93,T94,T95,T96
+class duration,1,1,1.5,1,1,1
+BatchEE12_C,T97,T100,T98,T100,T97,T98
+class duration,1,1,1,1,1,1
+BatchEE12_D,T97,T98,T85,T100,T99,T79
+class duration,1,1,1,1,1,1
+Preferences,,,,,,
+T1,m,,,,,
+T2,e,,,,,
+T8,e,,,,,
+T10,m,,,,,
+T32,m,,,,,
+T43,m,,,,,
+T33,e,,,,,
+T24,e,,,,,
+T14,m,,,,,
+T40,m,,,,,
+T38,e,,,,,
+T66,m,,,,,
+T69,m,,,,,
+T71,e,,,,,
+T74,e,,,,,
+T78,m,,,,,
+T89,e,,,,,
+T91,e,,,,,
+T98,m,,,,,
